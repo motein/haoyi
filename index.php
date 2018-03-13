@@ -1,0 +1,9 @@
+<?php
+session_start();
+require_once("pagemethod.php");
+draw_header();
+draw_menu();
+draw_left_table();
+draw_right_table();
+draw_footer();
+?>

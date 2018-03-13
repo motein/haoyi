@@ -1,0 +1,122 @@
+
+a{
+text-decoration:none;}
+#intro{
+font-family: "Î¢ÈíÑÅºÚ", "ºÚÌå", sans-serif;
+     }
+			 #header_log_right{
+				color:#000;
+				font-size:18px;
+				font-weight:bold;
+				font-family: "Î¢ÈíÑÅºÚ", "ºÚÌå", sans-serif;
+				text-decoration:none;
+				display:inline;
+				position:relative;
+				
+		    }
+			#header_right{
+			
+			vertical-align:bottom;
+			float:right;
+			font-size:12px;
+			font-weight:bold;
+			font-family: "Î¢ÈíÑÅºÚ", "ºÚÌå", sans-serif;
+			
+			}
+			#userpos{
+			background-color:#FFFFFF;
+			font-size:12px;
+			font-weight:bold;
+			font-family: "Î¢ÈíÑÅºÚ", "ºÚÌå", sans-serif;
+			}
+           	 #div_line{
+				  color:#cccccc;
+				  text-align:left
+					  }
+
+			.foot{
+			    color:#000;
+				font-size:16px;
+				font-family: "Î¢ÈíÑÅºÚ", "ºÚÌå", sans-serif;
+				text-decoration:none;
+				white-space:nowrap;
+			   }
+			#menuBar{
+			background-color:#33CC33;
+				display:block;
+				margin-bottom:0px;
+				position:relative;
+				/*top:5px;*/
+				top:0px;
+				left:0;
+				right:0px;
+				width:100%;
+				height:38px;
+				overflow:hidden;
+				text-align:right;
+			}
+
+				.menuHeader{
+				float:right;
+			    color:#000;
+				font-size:20px;
+				font-family: "Î¢ÈíÑÅºÚ", "ºÚÌå", sans-serif;
+				font-weight:bold;
+				text-decoration:none;
+				white-space:nowrap;
+				cursor:pointer;
+				padding:6px;
+				margin:1px;
+				padding-right:10px;
+				padding-left:10px;
+				display:inline;
+				position:relative;
+				height:38px;
+				
+				/*background-image:url("green3.jpg");*/
+				text-align:center;
+			}
+
+			
+
+
+			.menuHeader a:link{
+				color:#fff;
+			}
+			.menuHeader a:visited{
+				color:#fff;
+			}
+			.menuHeader a:hover{
+				color:#000;
+				background-color:#99ff66;
+			}
+			.menuHeader a:active{
+				color:#000;
+				background-color:#99ff66;
+			}
+			.menuHeader a{
+				color:none;
+				display:block;
+				text-align:center;
+			}
+
+			.menuHeader2 a:link{
+				color:#fff;
+			}
+			.menuHeader2 a:visited{
+				color:#fff;
+			}
+			.menuHeader2 a:hover{
+				color:#000;
+				background-color:#99ff66;
+			}
+			.menuHeader2 a:active{
+				color:#000;
+				background-color:#99ff66;
+			}
+			.menuHeader2 a{
+			background-color:#33CC00;
+				text-decoration:none;
+				display:block;
+				text-align:center;
+			}
